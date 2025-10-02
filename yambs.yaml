@@ -2,4 +2,4 @@
 project:
   name: toolchains
   github: {owner: vkottler}
-  version: {major: 0, minor: 1, patch: 0}
+  version: {major: 0, minor: 2, patch: 0}

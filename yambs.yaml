@@ -1,5 +1,5 @@
 ---
 project:
   name: toolchains
-  github: {owner: vkottler}
+  github: {owner: libre-embedded}
   version: {major: 0, minor: 2, patch: 0}

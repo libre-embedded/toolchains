@@ -26,7 +26,7 @@ Information about the build can be found in `./<unpacked>/build.log.bz2`
 
 ## Releases
 
-1. Build new toolchain(s).
+1. Build and pack new toolchain(s) (`mk toolchains`).
 1. Bump version in [yambs.yaml](yambs.yaml).
 1. Set `GITHUB_API_TOKEN` in environment.
 1. Run `mk release-only`.

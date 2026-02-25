@@ -9,3 +9,4 @@ dist
 tags
 .config.*
 build.log
+*.tar.*

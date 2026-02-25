@@ -8,8 +8,6 @@ includes:
 
 compiles:
   - name: local
-    configs:
-      - local/configs
 
 groups:
   - name: all

@@ -7,3 +7,6 @@ tasks
 third-party
 dist
 tags
+.config.*
+build.log
+*.tar.*
